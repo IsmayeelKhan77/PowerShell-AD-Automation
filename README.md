@@ -178,4 +178,4 @@ I built this project with an AI assistant (Claude) as my coding partner while I 
 
 ## Author
 
-Mohd. Ismayeel Khan | GitHub: [IsmayeelKhan77](https://github.com/IsmayeelKhan77) Linkedin: [Ismayeel khan](www.linkedin.com/in/ismayeel-khann7)
+Mohd. Ismayeel Khan | GitHub: [IsmayeelKhan77](https://github.com/IsmayeelKhan77) 
