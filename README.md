@@ -173,9 +173,9 @@ I built this project with an AI assistant (Claude) as my coding partner while I 
 
 ## Related Projects
 
-- **Project 1:** Active Directory User Management Lab. See my [GitHub profile](https://github.com/IsmayeelKhan77).
+- **Project 1:** Active Directory User Management Lab. See my [GitHub profile](https://github.com/IsmayeelKhan77/Helpdesk-IAM-Lab).
 - **Project 2:** [Enterprise IT Support Lab](https://github.com/IsmayeelKhan77/Enterprise-IT-Support-Lab)
 
 ## Author
 
-Mohd. Ismayeel Khan | GitHub: [IsmayeelKhan77](https://github.com/IsmayeelKhan77)
+Mohd. Ismayeel Khan | GitHub: [IsmayeelKhan77](https://github.com/IsmayeelKhan77) Linkedin: [Ismayeel khan](www.linkedin.com/in/ismayeel-khann7)
