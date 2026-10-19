@@ -1,5 +1,0 @@
-# Never upload files that contain temporary passwords
-Logs/HANDOFF_*.csv
-
-# Local backup folders created during development
-Scripts_backup*/
