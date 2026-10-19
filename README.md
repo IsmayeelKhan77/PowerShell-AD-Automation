@@ -173,7 +173,7 @@ I built this project with an AI assistant (Claude) as my coding partner while I 
 
 ## Related Projects
 
-- **Project 1:** Active Directory User Management Lab. See my [GitHub profile](https://github.com/IsmayeelKhan77/Helpdesk-IAM-Lab).
+- **Project 1:** Active Directory User Management Lab. See my [Helpdesk IAM LAB](https://github.com/IsmayeelKhan77/Helpdesk-IAM-Lab).
 - **Project 2:** [Enterprise IT Support Lab](https://github.com/IsmayeelKhan77/Enterprise-IT-Support-Lab)
 
 ## Author
